@@ -1,4 +1,4 @@
-let firstCard = getRandomCard()
+let firstCard = getRandomCard()   //invoking the getRandom function to the variable
 let secondCard = getRandomCard()
 const cards = [firstCard, secondCard]
 let sum = firstCard + secondCard;
